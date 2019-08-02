@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace BytesSumCounter
 {
-    public class SmallFile
+    public class File4Calc
     {
-        public string FileName { get; set; }
-        public int SumResult { get; set; }
+        public string Name { get; set; }
+        public long Size { get; set; }
         public bool IsFinished { get; set; }
+        public Task<ulong> task;
     }
 }
