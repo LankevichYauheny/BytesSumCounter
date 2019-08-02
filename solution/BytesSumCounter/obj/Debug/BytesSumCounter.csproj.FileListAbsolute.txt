@@ -1,0 +1,7 @@
+d:\Yauheni\BytesSumCounter\solution\BytesSumCounter\bin\Debug\BytesSumCounter.exe.config
+d:\Yauheni\BytesSumCounter\solution\BytesSumCounter\bin\Debug\BytesSumCounter.exe
+d:\Yauheni\BytesSumCounter\solution\BytesSumCounter\bin\Debug\BytesSumCounter.pdb
+d:\Yauheni\BytesSumCounter\solution\BytesSumCounter\obj\Debug\BytesSumCounter.csprojAssemblyReference.cache
+d:\Yauheni\BytesSumCounter\solution\BytesSumCounter\obj\Debug\BytesSumCounter.csproj.CoreCompileInputs.cache
+d:\Yauheni\BytesSumCounter\solution\BytesSumCounter\obj\Debug\BytesSumCounter.exe
+d:\Yauheni\BytesSumCounter\solution\BytesSumCounter\obj\Debug\BytesSumCounter.pdb
